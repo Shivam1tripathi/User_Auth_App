@@ -97,18 +97,14 @@ For Creating app password go to gmail app
 
 ## ▶️ Run the app
 
+```
 npm run Server
-
 ```
 
 Server runs on:
 
 ```
-
 http://localhost:5000
-
-```
-
 ---
 
 ## 🛠 API Endpoints
