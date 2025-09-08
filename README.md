@@ -18,7 +18,6 @@ Built with **MongoDB** as the database.
 - ✅ Logout (invalidate tokens)
 - ✅ Rate limiting on login (to prevent brute force)
 - ✅ Error handling (duplicate emails, wrong credentials, expired tokens)
-- ⚡ Bonus: Dockerization ready
 
 ---
 
