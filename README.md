@@ -138,6 +138,7 @@ Post Man Collection link :- https://www.postman.com/shivam12tr/workspace/public/
 
 - Logout **does not immediately invalidate access token**
 - Rate limiting applied on login to prevent brute-force.
+- After Register make sure tu verify email from gmail in same system where your server is running
 
 ---
 
