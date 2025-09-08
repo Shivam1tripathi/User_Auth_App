@@ -16,7 +16,7 @@ import {
 
 const router = express.Router();
 
-// Placeholder routes (we'll connect controllers later)
+// Placeholder routes
 router.post("/signup", signup);
 router.get("/verify-email", verifyEmail);
 router.post("/login", loginLimiter, login);
